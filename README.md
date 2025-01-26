@@ -4,7 +4,7 @@ react Player 是一个功能强大的音乐播放器项目，它使用 React 构
 
 
 ### 项目概述
-- **名称**：react msuic Player（此处可能拼写有误，应为“react music Player”）
+- **名称**：React Music Player（ RMP )
 - **功能**：使用 React 构建，集成了音乐搜索、歌词显示等功能，为用户提供流畅的音乐播放体验。
 
 ### 项目结构
