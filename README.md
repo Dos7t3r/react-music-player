@@ -7,17 +7,31 @@ react Player 是一个功能强大的音乐播放器项目，它使用 React 构
 项目的主要目录结构如下：
 
 ```
-vue-player-master/
-├── components/
-│   ├── header.tsx
-│   ├── lyrics.tsx
-│   ├── player-header.tsx
-│   ├── player-lyrics.tsx
-├── utils/
-│   ├── lyric-parser.ts
-│   ├── lyric.ts
-├── tailwind.config.js
-├── music-player.tsx
+vue-player-master
+├─ tailwind.config.js
+├─ .DS_Store
+├─ music-player.tsx
+├─ components
+│  ├─ player-header.tsx
+│  ├─ now-playing.tsx
+│  ├─ search-dialog.tsx
+│  ├─ player-controls.tsx
+│  ├─ playlist.tsx
+│  ├─ lyrics.tsx
+│  ├─ audio-player.tsx
+│  ├─ header.tsx
+│  ├─ loading-screen.tsx
+│  ├─ player-cover.tsx
+│  └─ player-lyrics.tsx
+├─ utils
+│  ├─ lyric.ts
+│  ├─ lyric-parser.ts
+│  ├─ audio.ts
+│  ├─ color.ts
+│  └─ color-extractor.ts
+└─ types
+   └─ music.ts
+
 ```
 
 ### 组件目录 `components`
