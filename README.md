@@ -1,4 +1,4 @@
-# react msuic Player
+# React music Player
 
 react Player 是一个功能强大的音乐播放器项目，它使用 React 构建，集成了多种功能，如音乐搜索、歌词显示等，为用户提供了一个流畅的音乐播放体验。
 
