@@ -58,7 +58,7 @@ export function Header({ onSongSelect, showNotification }: HeaderProps) {
     <header className="fixed top-0 left-0 right-0 bg-black/30 backdrop-blur-lg p-4 z-50">
       <div className="max-w-7xl mx-auto flex justify-between items-center">
         <h1 className="text-2xl font-bold bg-gradient-to-r from-blue-500 to-purple-500 text-transparent bg-clip-text">
-          By Dos7t3r
+          ⚛ REACT ⚛
         </h1>
         <div className="relative">
           <Button
