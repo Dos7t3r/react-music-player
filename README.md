@@ -1,7 +1,6 @@
-# vue-music-player
+# vue-music-player v1.0
 
-一个简单的 Vue 在线播放器 demo <br>
-具有搜索歌曲，在线播放，歌词展示（beta），通知提示等功能，目前仅仅实现了最低功能，还在学习中。<br>
+正在开发完整可用版本<br>
 
 
 
