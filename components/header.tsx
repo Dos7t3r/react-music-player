@@ -32,7 +32,7 @@ export function Header({ onSongSelect, showNotification }: HeaderProps) {
     setIsSearching(true)
     try {
       const response = await fetch(
-        `https://metingapi.nanorocky.top/?server=netease&type=search&id=0&yrc=true&keyword=${encodeURIComponent(
+        `https://metingapi.nanorocky.top/?server=netease&type=search&id=0&yrc=false&keyword=${encodeURIComponent(
           keyword,
         )}`,
       )
