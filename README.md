@@ -60,38 +60,6 @@ vue-player-master
 #### 播放器头部信息
 `player-header.tsx` 组件会显示当前播放歌曲的标题和艺术家信息，如果没有歌曲在播放，则显示“未在播放”。
 
-### 如何使用
-
-#### 安装依赖
-首先，你需要安装项目的依赖：
-```bash
-npm install
-```
-
-#### 运行项目
-安装完成后，你可以通过以下命令启动项目：
-```bash
-npm run dev
-```
-
-### 开发与贡献
-如果你想对项目进行开发或贡献代码，可以按照以下步骤进行：
-1. 克隆项目到本地：
-```bash
-git clone  https://github.com/Dos7t3r/vue-music-player
-```
-2. 创建并切换到新的分支：
-```bash
-git checkout -b feature/vue-player
-```
-3. 进行代码开发和修改。
-4. 提交代码并推送到远程仓库：
-```bash
-git add .
-git commit -m "你的提交信息"
-git push origin feature/your-feature-name
-```
-5. 创建 Pull Request，等待审核和合并。
 
 ### 技术栈
 - **React**：用于构建用户界面。
@@ -114,4 +82,4 @@ git push origin feature/your-feature-name
 - https://github.com/metowolf/MetingJS
 
 # Notice
-this project was powered by v0dev & chatGPT
+this project was powered by v0dev & ChatGPT
